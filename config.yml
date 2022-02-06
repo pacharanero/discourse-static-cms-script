@@ -1,0 +1,12 @@
+# Configuration
+
+destination-folder: markdown-files
+
+
+# Insert a YAML list of /raw/ links here
+# /raw/ links are formed from site base URL + /raw/ + topicID
+# Any site  that returns raw Markdown will work
+
+pages:
+  - https://meta.discourse.org/t/welcome-to-meta-discourse-org/1
+  - https://meta.discourse.org/t/design-bar-and-components-bug/217195
